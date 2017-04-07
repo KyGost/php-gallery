@@ -1,0 +1,3 @@
+A simple gallery tool, create a folder with all files in it (gallery.php, style.css, script.js & images) and place the images you want to be shown in the "images" folder.
+
+In order to access the gallery, simply go to the gallery.php file via a browser. A page with two buttons, green and red is shown; the green button takes the images forward and the red button takes them back, images are shown between the buttons.
